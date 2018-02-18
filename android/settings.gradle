@@ -1,0 +1,3 @@
+rootProject.name = 'Popup'
+
+include ':app'
